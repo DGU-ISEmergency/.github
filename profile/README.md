@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=200&section=header&text=Commit_Message_Convention&fontSize=56" /></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Commit_Message_Convention&fontSize=56" /></div>
 <br>
 <h1>메시지 구조</h1>
 <p>먼저 커밋 메시지는 크게 <strong>제목, 본문, 꼬리말</strong> 세 가지 파트로 나누고, 각 파트는 빈줄을 두어서 구분합니다.</p>
